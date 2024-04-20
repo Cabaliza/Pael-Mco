@@ -1,0 +1,1 @@
+import { SnMenu } from '../bin/sedna';

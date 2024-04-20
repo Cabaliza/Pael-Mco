@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "basex": "^1.1.0",
+    "body-parser-xml": "^2.0.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "fast-xml-parser": "^4.3.6",
+    "json2xml": "^0.1.3",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.0",
+    "sedna": "^2.3.7",
+    "xmldom": "^0.6.0"
+  }
+}
